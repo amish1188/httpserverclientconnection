@@ -1,0 +1,16 @@
+h1 {
+	color: orange;
+	text-align: center;
+}
+header p {
+	color: blue;
+}
+header p span {
+	color: red;
+}
+.cosy{
+	background-color: yellow;
+}
+footer .cosy {
+	background-color: lightGray;
+}
